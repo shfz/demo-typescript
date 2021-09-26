@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/node@^16.6.1":
-  version "16.6.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.6.1.tgz#aee62c7b966f55fc66c7b6dfa1d58db2a616da61"
-  integrity sha512-Sr7BhXEAer9xyGuCN3Ek9eg9xPviCF2gfu9kTfuU2HkTVAMYSDeX40fvpmo72n5nansg3nsBjuQBrsS28r+NUw==
+"@types/node@^16.10.1":
+  version "16.10.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.10.1.tgz#f3647623199ca920960006b3dccf633ea905f243"
+  integrity sha512-4/Z9DMPKFexZj/Gn3LylFgamNKHm4K3QDi0gz9B26Uk0c8izYf97B5fxfpspMNkWlFupblKM/nV8+NA9Ffvr+w==
 
 axios-cookiejar-support@^1.0.1:
   version "1.0.1"
@@ -107,10 +107,10 @@ follow-redirects@^1.10.0:
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.1.tgz#d9114ded0a1cfdd334e164e6662ad02bfd91ff43"
   integrity sha512-HWqDgT7ZEkqRzBvc2s64vSZ/hfOceEol3ac/7tKwzuvEyWx3/4UegXh5oBOIotkGsObyk3xznnSRVADBgWSQVg==
 
-fzlib-node@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/fzlib-node/-/fzlib-node-0.0.1.tgz#dd7afad16b025a5fc328cb01010b5ad84ce7fbc4"
-  integrity sha512-JFAIdzaeTc0t5lFI1Z9mCCSZa+e9glbyLARqp68/i2/TutJw5X3WrNp60W0UL6puSGCSk0TBAgHJZdQKhfd6bA==
+fzlib-node@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/fzlib-node/-/fzlib-node-0.0.2.tgz#8b5b9c5df8e91d340668d25536a5d3385e8fff9c"
+  integrity sha512-QQVhBAqQlymCMUIV088UCBlecUwkBkzfOr32jxaA5Glg1bjQFife61HQSknemzI56smsGVln18P/4DAOEVKl+w==
   dependencies:
     axios "^0.21.1"
     axios-cookiejar-support "^1.0.1"
@@ -180,10 +180,10 @@ tslib@^2.2.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
 
-typescript@^4.3.5:
-  version "4.3.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.5.tgz#4d1c37cc16e893973c45a06886b7113234f119f4"
-  integrity sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==
+typescript@^4.4.3:
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.3.tgz#bdc5407caa2b109efd4f82fe130656f977a29324"
+  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
 
 universalify@^0.1.2:
   version "0.1.2"
